@@ -1,0 +1,57 @@
+1 - Escrever um programa que receba o nome de um aluno e as notas das três provas que ele obteve no semestre, no final
+    imprimir na tela o nome do aluno e a sua média(aritmética). Obs: a nota da prova é entre 0 a 10.
+	
+2 - Faça um programa que receba o nome e a idade de 3 pessoas, no final informe quais pessoas são maiores de idade, 
+	considerando que a partir de 18 anos é maior de idade.
+	
+3 - Faça um programa que crie uma lista de 5 pessoas cujos nomes são (Arilson,Bruna,Emerson,Fernando,Roberta) 
+	e no final imprima essa lista de nomes na tela em ordem alfabética.
+	
+4 - Faça um programa que receba uma lista de números com os dados(5,1.5,10,30,500), 
+	efetue o somatório desses números e no final imprima na tela a posição do array com os valores ao lado e abaixo(última linha) o resultado do somatório.
+	
+5 - Faça um programa que recebe um array de inteiros e retorna a quantidade de elementos do array que são números negativos.
+
+6 - Faça um programa que recebe um array de inteiros e um valor inteiro X e retorna a quantidade de vezes que X aparece no array.
+
+7 - Faça um programa que receba a lista de compras do supermercado de 3 pessoas conforme tabela abaixo, 
+	calcule o valor total da compra de cada pessoa, ordene a listagem pela pessoa que teve o menor gasto total na compra.
+	No final mostre na tela todos os dados da compra de cada pessoa, inclusive o valor total da compra de cada pessoa.
+	
+	Nome do cliente: Arilson
+	|  Produto        |Quantidade|Preço unitário|SubTotal
+	| Tv Smart        |    1     | 2000.00      |  (Calcular)
+	| Lava louça      |    1     | 830.00       |  (Calcular)
+	| Saco de Arroz   |    2     | 20.00        |  (Calcular)
+	| Pão frances     |    15    | 0.50         |  (Calcular)
+	| Maionese        |    2     | 8.00         |  (Calcular)
+	| Batata          |    11    | 2.00         |  (Calcular)
+	| Lata Milho      |    2     | 3.50         |  (Calcular)
+	| Extrato tomate  |    3     | 2.90         |  (Calcular)
+	| Pasta de dente  |    4     | 3.95         |  (Calcular)
+	Total da compra: R$ x.xx(Calcular)
+	
+	Nome do cliente: Rogério
+	|  Produto          |Quantidade|Preço unitário|SubTotal
+	| Notebook Dell     |    1     | 3500.00      |  (Calcular)
+	| Cartão netflix    |    2     | 27.00        |  (Calcular)
+	| Saco de Arroz     |    1     | 10.00        |  (Calcular)
+	| Pão frances       |    20    | 0.50         |  (Calcular)
+	| Tomate            |    6     | 5.00         |  (Calcular)
+	| Batata Palha      |    1     | 4.00         |  (Calcular)	
+	| Extrato tomate    |    3     | 2.90         |  (Calcular)
+	| Secador de cabelo |    1     | 100.00       |  (Calcular)
+	Total da compra: R$ x.xx(Calcular)
+	
+	Nome do cliente: Ronaldo
+	|  Produto        |Quantidade|Preço unitário|SubTotal		
+	| Pote Iogurte    |    2     | 6.99         |  (Calcular)
+	| Geladeira Inox  |    8     | 3500.00      |  (Calcular)
+	| Maionese        |    1     | 10.00        |  (Calcular)	
+	| Refrigerante    |    3     | 4.50         |  (Calcular)
+	| Xicara          |    2     | 29.90        |  (Calcular)
+	| Desodorante     |    4     | 13.00        |  (Calcular)
+	Total da compra: R$ x.xx(Calcular)
+	
+8 - Faça um programa que receba um número inteiro e converta esse número para o sistema de numeração binário, 
+	no final imprima na tela o número inteiro recebido e o resultado da conversão do número em binário.
