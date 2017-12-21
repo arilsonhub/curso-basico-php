@@ -1,0 +1,32 @@
+1 - Faça um programa que crie um arquivo chamado listaAlunos.txt contendo os dados dos alunos de uma escola os quais são nome,nota prova 1,
+nota prova 2, nota prova 3 e a média(aritmética) do aluno. O arquivo precisa conter os dados conforme abaixo:
+
+Padrão dos dados no arquivo:
+Nome|Nota1|Nota2|Nota3|Media
+
+Dados a serem escritos no arquivo:
+Arilson|7|6|9|media
+Roberto|4|5|1|media
+Fernanda|2|9|7|media
+Fabiano|9|9|9|media
+Fabricio|6|4|7|media
+Emerson|1|4|5|media
+Ronaldo|8|2|6|media
+
+obs: a média deverá ser calculada.
+
+2 - Faça um programa que leia o arquivo listaAlunos.txt criado no exercicio 1 e exiba os dados na tela conforme padrão abaixo:
+
+Nome do aluno.
+Nota da primeira prova.
+Nota da segunda prova.
+Nota da terceira prova.
+Média final.
+Resultado -> informar se o aluno foi aprovado ou reprovado.
+
+Obs: Para aprovação o aluno precisa de média maior ou igual a 7.
+
+3 - Faça um programa que leia o arquivo listaAlunos.txt criado no exercicio 1 e exiba os dados na tela conforme exercicio 2, porém um novo arquivo
+deverá ser criado com o nome listaAprovados.txt e neste só deverão constar os alunos aprovados.
+
+OBS: Exibir na tela do navegador os dados do arquivo listaAprovados.txt conforme padrão do exercicio 2.

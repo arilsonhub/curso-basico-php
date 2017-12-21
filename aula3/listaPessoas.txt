@@ -1,0 +1,6 @@
+1|Arilson|28|Masculino|07/10/1989
+2|Emerson|40|Masculino|05/10/1975
+3|Mario|15|Masculino|25/03/1992
+4|Camila|18|Feminino|10/01/1999
+5|Suellen|18|Feminino|10/01/1999
+6|Edson|18|Masculino|10/01/1999
